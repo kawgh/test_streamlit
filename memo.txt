@@ -1,0 +1,6 @@
+%windir%\System32\cmd.exe 
+"/K" 
+C:\Users\hayat\anaconda3\Scripts\activate.bat 
+C:\Users\hayat\anaconda3
+
+%windir%\System32\cmd.exe
