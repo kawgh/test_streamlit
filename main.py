@@ -4,7 +4,7 @@ import pandas as pd
 from PIL import Image
 import time
 
-st.title('Streamlit 超入門')
+st.title('Streamlit Test')
 
 st.write('DateFrame')
 
